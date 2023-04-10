@@ -1,0 +1,20 @@
+.blockCenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flexCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.width100 {
+  width: 100%;
+}
+
+.image img {
+  width: 250px;
+}
